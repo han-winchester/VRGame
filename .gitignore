@@ -3,12 +3,12 @@
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
 Elle-Child-s-Play/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Elle-Child-s-Play/[Tt]emp/
+Elle-Child-s-Play/[Oo]bj/
+Elle-Child-s-Play/[Bb]uild/
+Elle-Child-s-Play/[Bb]uilds/
+Elle-Child-s-Play/[Ll]ogs/
+Elle-Child-s-Play/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
